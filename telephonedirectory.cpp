@@ -392,7 +392,7 @@ int opt;
        cout<<"\n\t\t\t\t\t::     ***********************     ::";
        cout<<"\n\t\t\t\t\t::     *                     *     ::";
        cout<<"\n\t\t\t\t\t::     *      WELCOME TO     *     ::";
-       cout<<"\n\t\t\t\t\t::     *         JIIT        *     ::";
+       cout<<"\n\t\t\t\t\t::     *       ANMOL'S       *     ::";
        cout<<"\n\t\t\t\t\t::     *      DIRECTORY      *     ::";
        cout<<"\n\t\t\t\t\t::     *                     *     ::";
        cout<<"\n\t\t\t\t\t::     ***********************     ::";
@@ -419,7 +419,7 @@ switch(opt)
        cout<<"\n\t\t\t\t\t::     ***********************     ::";
        cout<<"\n\t\t\t\t\t::     *                     *     ::";
        cout<<"\n\t\t\t\t\t::     *      WELCOME TO     *     ::";
-       cout<<"\n\t\t\t\t\t::     *         JIIT        *     ::";
+       cout<<"\n\t\t\t\t\t::     *       ANMOL'S       *     ::";
        cout<<"\n\t\t\t\t\t::     *      DIRECTORY      *     ::";
        cout<<"\n\t\t\t\t\t::     *                     *     ::";
        cout<<"\n\t\t\t\t\t::     ***********************     ::";
@@ -480,7 +480,7 @@ switch(opt)
             cout<<"\n\t\t\t\t\t::     ***********************     ::";
             cout<<"\n\t\t\t\t\t::     *                     *     ::";
             cout<<"\n\t\t\t\t\t::     *      WELCOME TO     *     ::";
-            cout<<"\n\t\t\t\t\t::     *         JIIT        *     ::";
+            cout<<"\n\t\t\t\t\t::     *       ANMOL'S       *     ::";
             cout<<"\n\t\t\t\t\t::     *      DIRECTORY      *     ::";
             cout<<"\n\t\t\t\t\t::     *                     *     ::";
             cout<<"\n\t\t\t\t\t::     ***********************     ::";
