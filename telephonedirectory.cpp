@@ -58,7 +58,7 @@ bool search(struct TrieNode *root, const string key)
 
 	for (int level = 0; level < length; level++)
 	{
-		int index = CHAR_TO_INDEX(key[level]);
+		int index = CHAR_TO_INDEX(key[level])
 
 		if (!pCrawl->children[index])
 			return false;
